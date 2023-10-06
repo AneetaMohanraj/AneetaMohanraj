@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AneetaMohanraj
+- 👀 I’m interested in Software development and Artificial Intelligence 
+- 🌱 I’m currently learning Machine Learning Techniques and Data Science
+- 📫 You can reach me on LingedIn : www.linkedin.com/in/aneeta-mohanraj
+- 🎓 I'm a post graduate in Computer Science
+- 👩‍💻 My programming skills include coding in Java, Python, C/C++, HTML/CSS and PHP
